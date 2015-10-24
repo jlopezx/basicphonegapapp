@@ -1,0 +1,17 @@
+.map {
+	width: 100%;
+}
+
+.logo {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h3{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
